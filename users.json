@@ -1,0 +1,22 @@
+{
+    "user1" : {
+       "name" : "bernardo",
+       "password" : "password1",
+       "profession" : "aluno",
+       "id": 1
+    },
+    
+    "user2" : {
+       "name" : "bruna",
+       "password" : "password2",
+       "profession" : "aluna",
+       "id": 2
+    },
+    
+    "user3" : {
+       "name" : "lara",
+       "password" : "password3",
+       "profession" : "Estudante",
+       "id": 3
+    }
+  }
